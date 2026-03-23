@@ -1,0 +1,14 @@
+.scrollContainer{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    overflow-x: auto;
+    padding: 10px;
+    background-color: rgb(240, 240, 240);
+}
+
+.scrollItem{
+    flex: 0 0 150px;
+    padding: 10px;
+    background-color: green;
+}
